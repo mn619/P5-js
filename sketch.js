@@ -58,5 +58,4 @@ function draw() {
   
   fill(col, c, d);
   circle(x, y, r);
-  text('hi', dxSlider.x*2 + dxSlider.width, 25);
 }
